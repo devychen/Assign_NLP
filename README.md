@@ -7,3 +7,17 @@
 一个写得不错的perceptron介绍：[人工智能知识全面讲解：感知机原理](http://t.csdnimg.cn/zXXFl)
 
 NLP2 covers Chapt 6-11, possibly 12.
+
+## Vector Semantics and Embeddings
+
+## Neural Networks
+
+## Tagging
+
+## RNN - Recurrent NN
+
+## The Transformer
+
+## BERT
+
+
