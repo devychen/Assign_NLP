@@ -8,6 +8,14 @@
 
 NLP2 covers Chapt 6-11, possibly 12.
 
+## Probability Theory
+
+## N-Gram Models
+
+## Text Classification & Naive Bayes
+
+## Regression - Linear & Logistic
+
 ## Vector Semantics and Embeddings
 
 ## Neural Networks
