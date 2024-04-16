@@ -9,7 +9,7 @@
 NLP2 covers Chapt 6-11, possibly 12. <br>
 Final Exam at 30th July. <br>
 
-**Further Readings**
+**Further Readings** <br>
 Alammar, Jay. [The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
 Alammar, Jay. [The Illustrated Transformer](https://jalammar.github.io/illustratedtransformer/)
 Alammar, Jay. [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq
