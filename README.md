@@ -22,7 +22,7 @@ NLP2 covers Chapt 6-11, possibly 12.
 
 ## Tagging
 
-## RNN - Recurrent NN
+## RNNs - Recurrent NNs
 
 ## The Transformer
 
